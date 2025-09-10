@@ -16,13 +16,13 @@ The official [Cloud Spanner Emulator binaries](https://storage.googleapis.com/cl
 
 ## Releases
 
-- You can find the **latest ARM builds** in this repository's [Releases page](https://github.com/[your-username]/cloud-spanner-emulator-arm/releases).
+- You can find the **latest ARM builds** in this repository's [Releases page](https://github.com/leometzger/cloud-spanner-emulator-arm/releases).
 - Each release corresponds to a version of the upstream emulator.
 - This repository will focus on making available the **most current versions**.
 
 ## Usage
 
-1. Download the binary for your platform from the [Releases](https://github.com/[your-username]/cloud-spanner-emulator-arm/releases) page.
+1. Download the binary for your platform from the [Releases](https://github.com/leometzger/cloud-spanner-emulator-arm/releases) page.
 2. Follow the official [Cloud Spanner Emulator setup documentation](https://cloud.google.com/spanner/docs/emulator), substituting the emulator binary you downloaded.
 
 > **Note:** These binaries are built from the official source code, only differing in being compiled for ARM architectures. All features and limitations are inherited from the upstream project.
